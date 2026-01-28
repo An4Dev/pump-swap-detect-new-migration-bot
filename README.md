@@ -64,7 +64,7 @@ cargo run -- --ws-url $RPC_WSS monitor-wallet
 
 ## Support
 
-For support and inquiries, please connect via Telegram: 📞 [Benjamin](https://t.me/deniyuda348)
+For support and inquiries, please connect via Telegram: 📞 [David](https://t.me/David19922)
 
 ## License
 
